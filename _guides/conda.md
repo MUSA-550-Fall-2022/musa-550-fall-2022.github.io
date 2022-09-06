@@ -278,9 +278,9 @@ install and manage all of the packages needed throughout the semester.
 
 The packages in an environment are specified in a file typically called
 `environment.yml`. The environment file for this course is stored in the
-[course-materials](https://github.com/MUSA-550-Fall-2021/course-materials)
+[course-materials](https://github.com/MUSA-550-Fall-2022/course-materials)
 repository on Github and a copy is also stored in the cloud on
-[anaconda.org](https://anaconda.org/pennmusa/musa-550-fall-2021/files).
+[anaconda.org](https://anaconda.org/pennmusa/musa-550-fall-2022/files).
 
 It is recommended to create the `'{{ site.env_name }}'` environment on your
 local computer using the environment file stored in the cloud on anaconda.org.
