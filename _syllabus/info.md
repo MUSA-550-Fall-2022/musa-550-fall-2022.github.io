@@ -10,7 +10,7 @@ lectures, office hours, assignments, and grading can be found below.
 ## Class
 
 - Monday & Wednesday, 7:00 PM to 8:30 PM
-- [Meyerson Hall, Room B4](https://www.isc-cts.upenn.edu/finder/classroominfo.asp?id=MEYH-B4)
+- [Annenberg Hall, Room 111](https://www.isc-cts.upenn.edu/finder/classroominfo.asp?id=anns-111)
 
 ## Contact Info
 
@@ -24,11 +24,14 @@ sign up for 1 (or more) 15-minute time slot via the Canvas calendar.
 
 **Nick:**
 
-TBD
+- Saturday from 10AM to 12PM
+- Remote, via Zoom (link in Canvas calendar invite)
 
 **Kristin:**
 
-TBD
+- Tuesday/Thursday from 11AM-12PM
+- Remote, via Zoom (link in Canvas calendar invite)
+
 
 ## Course Websites
 
