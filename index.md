@@ -218,7 +218,7 @@ tr a {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td><a href="https://github.com/MUSA-550-Fall-2022/assignment-3" target="blank_">Assign HW #3</a> (required)</td>
+            <td></td>
         </tr>
         <!-- Week 4B -->
          <tr class="dark-border-bottom">
@@ -255,7 +255,7 @@ tr a {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td></td>
+            <td><a href="https://github.com/MUSA-550-Fall-2022/assignment-3" target="blank_">Assign HW #3</a> (required)</td>
         </tr>
         <!-- Week 5B -->
          <tr class="dark-border-bottom">
@@ -292,7 +292,7 @@ tr a {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td><a href="https://github.com/MUSA-550-Fall-2022/assignment-4" target="blank_">Assign HW #4</a> (optional)</td>
+            <td></td>
         </tr>
         <!-- Week 6B -->
          <tr class="dark-border-bottom">
@@ -329,7 +329,7 @@ tr a {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td></td>
+            <td><a href="https://github.com/MUSA-550-Fall-2022/assignment-4" target="blank_">Assign HW #4</a> (optional)</td>
         </tr>
         <!-- Week 7B -->
          <tr class="dark-border-bottom">
@@ -363,7 +363,7 @@ tr a {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td class='dark-border-bottom'><a href="https://github.com/MUSA-550-Fall-2022/assignment-5" target="blank_">Assign HW #5</a> (optional)</td>
+            <td></td>
         </tr>
         <!-- Week 8B -->
          <tr class="dark-border-bottom">
@@ -400,7 +400,7 @@ tr a {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td></td>
+            <td><a href="https://github.com/MUSA-550-Fall-2022/assignment-5" target="blank_">Assign HW #5</a> (optional)</td>
         </tr>
         <!-- Week 9B -->
          <tr class="dark-border-bottom">
@@ -452,7 +452,7 @@ tr a {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td class='dark-border-bottom'><a href="https://github.com/MUSA-550-Fall-2022/assignment-6" target="blank_">Assign HW #6</a> (optional)</td>
+            <td class='dark-border-bottom'></td>
          </tr>
          <!-- Week 11A -->
         <tr>
@@ -474,7 +474,7 @@ tr a {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td></td>
+            <td><a href="https://github.com/MUSA-550-Fall-2022/assignment-6" target="blank_">Assign HW #6</a> (optional)</td>
         </tr>
         <!-- Week 11B -->
          <tr class="dark-border-bottom">
@@ -526,7 +526,7 @@ tr a {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td><a href="https://github.com/MUSA-550-Fall-2022/assignment-7" target="blank_">Assign HW #7</a> (required)</td>
+            <td></td>
          </tr>
          <!-- Week 13A -->
         <tr>
@@ -548,7 +548,7 @@ tr a {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td></td>
+            <td><a href="https://github.com/MUSA-550-Fall-2022/assignment-7" target="blank_">Assign HW #7</a> (required)</td>
         </tr>
         <!-- Week 13B -->
          <tr class="dark-border-bottom">
