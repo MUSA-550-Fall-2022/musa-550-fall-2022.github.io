@@ -526,7 +526,7 @@ tr a {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td></td>
+            <td><a href="https://github.com/MUSA-550-Fall-2022/assignment-7" target="blank_">Assign HW #7</a> (required)</td>
          </tr>
          <!-- Week 13A -->
         <tr>
@@ -548,7 +548,7 @@ tr a {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td><a href="https://github.com/MUSA-550-Fall-2022/assignment-7" target="blank_">Assign HW #7</a> (required)</td>
+            <td></td>
         </tr>
         <!-- Week 13B -->
          <tr class="dark-border-bottom">
