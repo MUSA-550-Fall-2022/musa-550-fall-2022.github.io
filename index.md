@@ -56,7 +56,7 @@ sections:
 .wrapper {
    max-width: 850px !important;
 }
-tr:nth-child(-n+3) a {
+tr:nth-child(-n+4) a {
   pointer-events: auto !important;
   cursor: pointer !important;
   opacity: 1 !important;
@@ -157,9 +157,7 @@ tr a {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td class='dark-border-bottom'>
-               <a href="https://github.com/MUSA-550-Fall-2022/assignment-2" target="blank_">Assign HW #2</a> (required)
-            </td>
+            <td></td>
          </tr>
         <!-- Week 3A -->
         <tr>
@@ -181,7 +179,9 @@ tr a {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td></td>
+            <td class='dark-border-bottom'>
+               <a href="https://github.com/MUSA-550-Fall-2022/assignment-2" target="blank_">Assign HW #2</a> (required)
+            </td>
         </tr>
         <!-- Week 3B -->
          <tr class="dark-border-bottom">
