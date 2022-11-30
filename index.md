@@ -56,7 +56,7 @@ sections:
 .wrapper {
    max-width: 850px !important;
 }
-tr:nth-child(-n+24) a {
+tr:nth-child(-n+25) a {
   pointer-events: auto !important;
   cursor: pointer !important;
   opacity: 1 !important;
